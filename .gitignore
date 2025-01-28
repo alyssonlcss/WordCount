@@ -9,3 +9,4 @@ erl_crash.dump
 /.hex
 /config/*.secret.exs
 .elixir_ls/
+.mix/archives/hex-2.1.1/hex-2.1.1
